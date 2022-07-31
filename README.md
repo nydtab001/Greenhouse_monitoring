@@ -10,7 +10,7 @@ The aim of this project was to implement an IoT environment logger for a greenho
 * ability to start and sto monitoring on button press
 * ability to view live logging information(system time and measurement values) locally and remotely though Blynk
 * abilty to reset the timer
-* signals an LED alarm when values are outside acceptaable thresholds
+* signals an LED alarm when values are outside acceptable thresholds
 * alarm can be switched off on button press once triggered
 
 ##  Running the project
